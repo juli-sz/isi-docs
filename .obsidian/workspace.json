@@ -11,10 +11,14 @@
             "id": "d102639d4ad2b9f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ASI/gemini-scribe/AGENTS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "AGENTS"
             }
           }
         ]
@@ -187,8 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d102639d4ad2b9f8",
+  "active": "9dfa64ddea22e657",
   "lastOpenFiles": [
+    "CONSIDERACIONES-VAULT.md",
+    "index-ejemplo.md",
+    "gitignore-sugerido.txt",
+    "detectar_invisibles.py",
+    "PYE",
     "ASI/Unidad 1 - Planificacion SI-TI/Preguntas.md",
     "ASI/Unidad 1 - Planificacion SI-TI/2.1 - ASI - Definición de Sistema de Información.md",
     "ASI/Unidad 1 - Planificacion SI-TI/1.5 - ASI - Ambientes y Niveles Organizacionales.md",
@@ -205,9 +214,6 @@
     "ASI/gemini-scribe/Scheduled-Tasks",
     "ASI/gemini-scribe/example-prompts.json",
     "ASI/gemini-scribe/AGENTS.md",
-    "ASI/gemini-scribe/Background-Tasks",
-    "ASI/gemini-scribe/Agent-Sessions",
-    "ASI/gemini-scribe",
     "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/99 Examen/├ìndice alfab├⌐tico de notas.md",
     "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/99 Examen/Cuestionario U1 (18 preguntas).md",
     "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/99 Examen/S├║per Resumen U1 (documento ├║nico).md",
@@ -222,8 +228,6 @@
     "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/07 Conceptos complementarios/Autores y modelos clave.md",
     "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/06 Valor de la informaci├│n (Robson)/Valor de la informaci├│n e inversi├│n en IS.md",
     "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/06 Valor de la informaci├│n (Robson)/T├⌐cnicas de justificaci├│n financiera.md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/06 Valor de la informaci├│n (Robson)/Error com├║n al estimar el valor (caso cosm├⌐ticos).md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/06 Valor de la informaci├│n (Robson)/Econom├¡a de la informaci├│n.md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/06 Valor de la informaci├│n (Robson)/Costos de los IS.md"
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/06 Valor de la informaci├│n (Robson)/Error com├║n al estimar el valor (caso cosm├⌐ticos).md"
   ]
 }

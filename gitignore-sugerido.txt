@@ -1,0 +1,19 @@
+# Renombrar este archivo a `.gitignore` en la raíz del vault isi-docs
+
+# Estado local de Obsidian (cambia todo el tiempo y ensucia el historial)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Papelera de Obsidian
+.trash/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Notas privadas (también están en los ignorePatterns de Quartz)
+private/
+privado/
