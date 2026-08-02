@@ -1,0 +1,47 @@
+---
+tags: [ASI-U1, complementario, glosario]
+aliases: [Glosario, Términos clave]
+---
+# 📖 Glosario U1
+
+Términos clave de la unidad ordenados alfabéticamente.
+
+- **Alineamiento estratégico:** integrar las necesidades de información del negocio con las funciones y procesos organizacionales. → [[Alineamiento E.O. – E.SI-TI (esquema general)]]
+- **Ambiente (organizacional):** todo lo que rodea al sistema y le proporciona recursos. → [[Ambiente organizacional]]
+- **Análisis de la cartera de aplicaciones:** esquema de clasificación (McFarlan) para evaluar los SI por su contribución al éxito del negocio. → [[Cartera de aplicaciones (McFarlan)]]
+- **Auditoría de costos de IS:** identificar todos los costos y evaluar cuánto de lo invertido en el pasado sigue siendo válido. → [[Auditoría de costos de IS]]
+- **Beneficio (de un IS):** ganar un recurso útil (capital, poder, status, certeza…) mejorando el manejo de la información. → [[Beneficios de los IS]]
+- **Cadena de valor:** modelo de Porter que distingue actividades de línea y de soporte; el SI vive en la infraestructura. → [[El SI en la cadena de valor]]
+- **Certeza (renunciar a la):** al invertir en IS se abandona lo conocido; a menor certeza, mayor riesgo. → [[Costos de los IS]]
+- **Comité de TI/SI:** órgano con responsabilidad última sobre el Plan; aprueba y da criterios estratégicos. → [[Grupos de trabajo del plan]]
+- **Costo (de un IS):** renunciar a un recurso o atributo importante (capital, tiempo, esfuerzo, certeza). → [[Costos de los IS]]
+- **DSS (Decision Support System):** sistema que apoya al decisor en decisiones no automatizables (intervalos de decisión). → [[DSS e intervalos de decisión]]
+- **Economía de la información:** marco de técnicas que extiende el análisis costo-beneficio con factores de valor y riesgo. → [[Economía de la información]]
+- **Efectividad:** hacer lo que está bien; balance beneficios/costos. Tema de management, no técnico. → [[Eficiencia vs Eficacia]]
+- **Eficacia:** medida normativa del logro de resultados (los fines). → [[Eficiencia vs Eficacia]]
+- **Eficiencia:** medida normativa de la utilización de recursos (los medios). → [[Eficiencia vs Eficacia]]
+- **Equifinalidad:** partiendo de condiciones y caminos distintos, un sistema puede alcanzar el mismo estado final. → [[Organización (concepto y sistemas abiertos)]]
+- **Escenario (en el Plan):** propuesta alternativa agrupando subsistemas coherentes; se presentan 3–4 a la dirección. → [[Procedimiento de alineamiento (4 fases)]]
+- **Estrategia (empresa):** conjunto integrado de acciones para incrementar la prosperidad y fortalezas a largo plazo. → [[Contexto de la estrategia SI-TI (Edwards)]]
+- **Estrategia de SI (demanda):** define **QUÉ** necesidades de información y aplicaciones tiene la empresa. → [[Estrategia de SI vs Estrategia de TI]]
+- **Estrategia de TI (oferta):** define **CÓMO** se satisfacen esas necesidades con tecnología. → [[Estrategia de SI vs Estrategia de TI]]
+- **Estrategias genéricas (Parsons):** 6 marcos para gestionar los SI/TI (centralizada, hilo conductor, mercado libre, monopolio, recurso escaso, mal necesario). → [[Estrategias genéricas de gestión (Parsons)]]
+- **FCE (Factor Crítico de Éxito):** áreas limitadas donde el resultado, si es bueno, asegura el éxito competitivo. → [[Factores Críticos de Éxito (Rockart)]]
+- **Homeostasis dinámica:** el sistema abierto mantiene constancia intercambiando energía con el ambiente. → [[Organización (concepto y sistemas abiertos)]]
+- **Intervalo de decisión:** bache donde el software no puede actuar solo; requiere decisión humana. → [[DSS e intervalos de decisión]]
+- **Management de computación:** ve los costos de IS como gasto operativo → foco en reducir costos. → [[Auditoría de costos de IS]]
+- **Management de información:** ve los IS como inversión de capital → foco en maximizar beneficios. → [[Auditoría de costos de IS]]
+- **Matriz de necesidades:** cruce funciones de negocio × acciones estratégicas → necesidades de información. → [[Matriz de necesidades]]
+- **Perspectiva de negocio (del Plan):** los planes de TI/SI se elaboran mirando el negocio, no la tecnología. → [[Plan de TI-SI (contenido)]]
+- **Plan de TI/SI:** lista priorizada de proyectos a 3–5 años con recursos y calendario. → [[Plan de TI-SI (contenido)]]
+- **Recursos organizacionales:** 5 grupos: físicos, financieros, humanos, mercadológicos, administrativos. → [[Recursos organizacionales]]
+- **Sistema abierto:** entradas → procesamiento → salidas + retroalimentación; en interacción continua con el ambiente. → [[Organización (concepto y sistemas abiertos)]]
+- **Sistema de Información (SI):** conjunto formal de procesos que recopila, elabora y distribuye información para operar la empresa según su estrategia. → [[Sistema de Información (definición)]]
+- **Sistema sociotécnico:** enfoque de Tavistock; combinación de tecnología + relaciones sociales; 3 subsistemas. → [[Enfoque de Tavistock]]
+- **Tecnologías de la Información (TI):** recursos tecnológicos que implementan los SI (hardware, software, comunicaciones). → [[Tecnologías de la Información (rol)]]
+- **Transacción:** actividad operativa básica de la empresa, que a menudo involucra interacción con el entorno. → [[Sistema de Información (definición)]]
+- **Umbral (inversión de):** inversión obligatoria para operar en la industria (ej. ATMs de un banco). → [[Clasificación de las inversiones en IS]]
+- **Valor de la información:** Ganancia CON − Ganancia SIN la información. → [[Valor de la información e inversión en IS]]
+
+## 🔗 Relacionado
+- [[Autores y modelos clave]] · [[Cuestionario U1 (18 preguntas)]]

@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "39b423f08157c7d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dad580540d6a08e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d102639d4ad2b9f8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f65c4e4a5c77ec6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "69df3c9d084111a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dfa64ddea22e657",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "96dc9bae9747d25b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "9b830ae28561c50f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43b1b547f8f088ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb17ab9a465a64b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaf3c942bf3e2ed2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "116f1fdc97ecb80e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "0e5947f3217636e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "837c8fda4fd52f2b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "c358f912a974c2ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "3f8ed8aff4a36105",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d102639d4ad2b9f8",
+  "lastOpenFiles": [
+    "ASI/Unidad 1 - Planificacion SI-TI/Preguntas.md",
+    "ASI/Unidad 1 - Planificacion SI-TI/2.1 - ASI - Definición de Sistema de Información.md",
+    "ASI/Unidad 1 - Planificacion SI-TI/1.5 - ASI - Ambientes y Niveles Organizacionales.md",
+    "ASI/Unidad 1 - Planificacion SI-TI/1.3 - ASI - Recursos Organizacionales.md",
+    "ASI/Unidad 1 - Planificacion SI-TI/1.4 - ASI - Racionalidad Organizacional y Eficiencia vs Eficacia.md",
+    "ASI/Unidad 1 - Planificacion SI-TI/1.2 - ASI - Enfoque Sociotécnico de Tavistock.md",
+    "ASI/Unidad 1 - Planificacion SI-TI/1.1 - ASI - Concepto de Organización y Sistemas Abiertos.md",
+    "ASI/Unidad 1 - Planificacion SI-TI",
+    "ASI/gemini-scribe/Prompts/example-expert.md",
+    "ASI/gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
+    "ASI/gemini-scribe/Scheduled-Tasks/Runs",
+    "ASI/gemini-scribe/Prompts",
+    "ASI/gemini-scribe/Skills",
+    "ASI/gemini-scribe/Scheduled-Tasks",
+    "ASI/gemini-scribe/example-prompts.json",
+    "ASI/gemini-scribe/AGENTS.md",
+    "ASI/gemini-scribe/Background-Tasks",
+    "ASI/gemini-scribe/Agent-Sessions",
+    "ASI/gemini-scribe",
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/99 Examen/├ìndice alfab├⌐tico de notas.md",
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/99 Examen/Cuestionario U1 (18 preguntas).md",
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/99 Examen/S├║per Resumen U1 (documento ├║nico).md",
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/99 Examen/Comodines y cruces de examen.md",
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/99 Examen/Bibliograf├¡a U1.md",
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/07 Conceptos complementarios/Planificaci├│n estrat├⌐gica del negocio (Palom Izquierdo).md",
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/07 Conceptos complementarios/Glosario U1.md",
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/07 Conceptos complementarios/Estrategias competitivas de Porter.md",
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/07 Conceptos complementarios/DSS e intervalos de decisi├│n.md",
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/07 Conceptos complementarios/Factores Cr├¡ticos de ├ëxito (Rockart).md",
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/07 Conceptos complementarios/Diferencias que se confunden.md",
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/07 Conceptos complementarios/Autores y modelos clave.md",
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/06 Valor de la informaci├│n (Robson)/Valor de la informaci├│n e inversi├│n en IS.md",
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/06 Valor de la informaci├│n (Robson)/T├⌐cnicas de justificaci├│n financiera.md",
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/06 Valor de la informaci├│n (Robson)/Error com├║n al estimar el valor (caso cosm├⌐ticos).md",
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/06 Valor de la informaci├│n (Robson)/Econom├¡a de la informaci├│n.md",
+    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/06 Valor de la informaci├│n (Robson)/Costos de los IS.md"
+  ]
+}
