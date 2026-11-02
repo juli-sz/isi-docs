@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Consideraciones para que `isi-docs` se despliegue bien en Quartz
 
 Checklist de todo lo que hay que tener en cuenta **del lado del vault** para que el sitio salga bien.
@@ -79,22 +83,22 @@ date: 2026-03-15                     # opcional, si querés fechar a mano
 
 ## 5. Qué se renderiza y qué no
 
-| Cosa de Obsidian                                  | En el sitio                                            |
-| -------------------------------------------------- | ------------------------------------------------------ |
-| `[[Wikilinks]]`, `[[Nota\|alias]]`, `[[Nota#Sección]]` | ✅ Funciona                                            |
-| `![[Nota]]` (transclusión / embed)                 | ✅ Funciona                                            |
-| `![[imagen.png]]`                                  | ✅ Funciona                                            |
-| Callouts `> [!note]`, `> [!warning]`               | ✅ Funciona                                            |
-| Tablas, checkboxes, footnotes, highlights `==x==`  | ✅ Funciona                                            |
-| LaTeX `$x^2$` y `$$...$$`                          | ✅ Funciona (KaTeX)                                    |
-| Bloques `mermaid`                                  | ✅ Funciona                                            |
-| Tags `#tema` y en frontmatter                      | ✅ Genera páginas de tag                               |
-| PDFs y otros adjuntos linkeados                    | ✅ Se copian y quedan descargables                     |
-| **Dataview** (```` ```dataview ````)               | ❌ Sale como bloque de código crudo                    |
-| **Tasks**, **Templater**, cualquier plugin JS      | ❌ No se ejecuta nada                                  |
-| **Excalidraw** (`.excalidraw.md`)                  | ❌ Ignorado (exportá a PNG/SVG y embebé la imagen)     |
-| **Canvas** (`.canvas`)                             | ❌ Ignorado                                            |
-| Comentarios `%%esto%%`                             | ✅ Se ocultan (no se publican)                         |
+| Cosa de Obsidian                                       | En el sitio                                       |
+| ------------------------------------------------------ | ------------------------------------------------- |
+| `[[Wikilinks]]`, `[[Nota\|alias]]`, `[[Nota#Sección]]` | ✅ Funciona                                        |
+| `![[Nota]]` (transclusión / embed)                     | ✅ Funciona                                        |
+| `![[imagen.png]]`                                      | ✅ Funciona                                        |
+| Callouts `> [!note]`, `> [!warning]`                   | ✅ Funciona                                        |
+| Tablas, checkboxes, footnotes, highlights `==x==`      | ✅ Funciona                                        |
+| LaTeX `$x^2$` y `$$...$$`                              | ✅ Funciona (KaTeX)                                |
+| Bloques `mermaid`                                      | ✅ Funciona                                        |
+| Tags `#tema` y en frontmatter                          | ✅ Genera páginas de tag                           |
+| PDFs y otros adjuntos linkeados                        | ✅ Se copian y quedan descargables                 |
+| **Dataview** (```` ```dataview ````)                   | ❌ Sale como bloque de código crudo                |
+| **Tasks**, **Templater**, cualquier plugin JS          | ❌ No se ejecuta nada                              |
+| **Excalidraw** (`.excalidraw.md`)                      | ❌ Ignorado (exportá a PNG/SVG y embebé la imagen) |
+| **Canvas** (`.canvas`)                                 | ❌ Ignorado                                        |
+| Comentarios `%%esto%%`                                 | ✅ Se ocultan (no se publican)                     |
 
 **Regla general:** todo lo que sea markdown puro se publica; todo lo que dependa de un plugin de Obsidian corriendo, no.
 

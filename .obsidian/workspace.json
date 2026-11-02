@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASI/gemini-scribe/AGENTS.md",
+                "file": "ASI/Unidad 1 - Planificacion SI-TI/Wiki/99 Examen/Bibliografía U1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "Bibliografía U1"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -78,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 625.5
   },
   "right": {
     "id": "43b1b547f8f088ac",
@@ -154,6 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ASI/Unidad 1 - Planificacion SI-TI/Wiki/99 Examen/Bibliografía U1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -161,19 +164,9 @@
               "icon": "lucide-list",
               "title": "Esquema"
             }
-          },
-          {
-            "id": "3f8ed8aff4a36105",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,47 +180,46 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Crear nueva base": false
     }
   },
-  "active": "9dfa64ddea22e657",
+  "active": "d102639d4ad2b9f8",
   "lastOpenFiles": [
-    "CONSIDERACIONES-VAULT.md",
-    "index-ejemplo.md",
-    "gitignore-sugerido.txt",
-    "detectar_invisibles.py",
-    "PYE",
-    "ASI/Unidad 1 - Planificacion SI-TI/Preguntas.md",
+    "ASI/Fuentes/AdmSI-CUESTIONARIOS APLICACIÓN DE RECURSOS.pdf",
+    "ASI/Fuentes/Preguntas teóricas [Finales] ordenadas por unidad.pdf",
+    "ASI/Fuentes/Todos Los Cuestionarios.pdf",
+    "ASI/Fuentes/Preguntas teóricas [Finales].pdf",
+    "ASI/Fuentes/Apunte Yoel.pdf",
+    "ASI/Fuentes/Apunte Supremo.pdf",
+    "ASI/Fuentes/AdmSI-CUESTIONARIOS DE ESTUDIO - SEGURIDAD Y AUDITORIA DE SI-TI.pdf",
+    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/99 Examen/Súper Resumen U1 (documento único).md",
+    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/99 Examen/Índice alfabético de notas.md",
+    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/99 Examen/Comodines y cruces de examen.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/index.md",
+    "ASI/Unidad 6 - La Administración de Recursos de SI_TI - Seguridad y Auditoría de Sistemas de Información/index.md",
+    "ASI/Unidad 1 - Planificacion SI-TI/ASI U1 - Planificación Estratégica SI-TI (Súper Resumen).md",
+    "ASI/Fuentes/Complemento a los apuntes.pdf",
+    "ASI/Unidad 1 - Planificacion SI-TI/index.md",
+    "ASI/Bienvenido.md",
+    "ASI/Unidad 1 - Planificacion SI-TI/index.html.md",
+    "ASI/Presentación - Alineamiento estratégico.pdf",
+    "ASI/index.html.md",
+    "ASI/Unidad 6/index.html.md",
+    "ASI/Unidad 3/Index.html.md",
+    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/02 SI en la empresa (Andreu)/El SI en la cadena de valor.md",
+    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/00 Home — U1 Planificación estratégica SI-TI.md",
     "ASI/Unidad 1 - Planificacion SI-TI/2.1 - ASI - Definición de Sistema de Información.md",
     "ASI/Unidad 1 - Planificacion SI-TI/1.5 - ASI - Ambientes y Niveles Organizacionales.md",
-    "ASI/Unidad 1 - Planificacion SI-TI/1.3 - ASI - Recursos Organizacionales.md",
     "ASI/Unidad 1 - Planificacion SI-TI/1.4 - ASI - Racionalidad Organizacional y Eficiencia vs Eficacia.md",
+    "ASI/Unidad 1 - Planificacion SI-TI/1.3 - ASI - Recursos Organizacionales.md",
     "ASI/Unidad 1 - Planificacion SI-TI/1.2 - ASI - Enfoque Sociotécnico de Tavistock.md",
     "ASI/Unidad 1 - Planificacion SI-TI/1.1 - ASI - Concepto de Organización y Sistemas Abiertos.md",
-    "ASI/Unidad 1 - Planificacion SI-TI",
-    "ASI/gemini-scribe/Prompts/example-expert.md",
-    "ASI/gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
-    "ASI/gemini-scribe/Scheduled-Tasks/Runs",
-    "ASI/gemini-scribe/Prompts",
-    "ASI/gemini-scribe/Skills",
-    "ASI/gemini-scribe/Scheduled-Tasks",
-    "ASI/gemini-scribe/example-prompts.json",
-    "ASI/gemini-scribe/AGENTS.md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/99 Examen/├ìndice alfab├⌐tico de notas.md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/99 Examen/Cuestionario U1 (18 preguntas).md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/99 Examen/S├║per Resumen U1 (documento ├║nico).md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/99 Examen/Comodines y cruces de examen.md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/99 Examen/Bibliograf├¡a U1.md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/07 Conceptos complementarios/Planificaci├│n estrat├⌐gica del negocio (Palom Izquierdo).md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/07 Conceptos complementarios/Glosario U1.md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/07 Conceptos complementarios/Estrategias competitivas de Porter.md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/07 Conceptos complementarios/DSS e intervalos de decisi├│n.md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/07 Conceptos complementarios/Factores Cr├¡ticos de ├ëxito (Rockart).md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/07 Conceptos complementarios/Diferencias que se confunden.md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/07 Conceptos complementarios/Autores y modelos clave.md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/06 Valor de la informaci├│n (Robson)/Valor de la informaci├│n e inversi├│n en IS.md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/06 Valor de la informaci├│n (Robson)/T├⌐cnicas de justificaci├│n financiera.md",
-    "ASI/ASI-U1-Vault-Obsidian/ASI U1 ΓÇö Planificaci├│n Estrat├⌐gica SI-TI/06 Valor de la informaci├│n (Robson)/Error com├║n al estimar el valor (caso cosm├⌐ticos).md"
+    "privado/ASI U1 - Planificación Estratégica SI-TI (Súper Resumen).pdf",
+    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/04 Cartera de aplicaciones (Edwards)/Aplicaciones estratégicas.md",
+    "privado",
+    "index-ejemplo.md",
+    "index.md",
+    "ASI/index.md",
+    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/99 Examen/Cuestionario U1 (18 preguntas).md"
   ]
 }

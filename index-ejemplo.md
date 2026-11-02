@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Apuntes de ISI
 description: Apuntes de Ingeniería en Sistemas de Información — UTN FRRe
 ---
