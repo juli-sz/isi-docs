@@ -124,7 +124,7 @@ Si escribís `El costo es $500 y el otro $300`, KaTeX interpreta lo del medio co
 Tres capas de exclusión:
 
 1. **`draft: true`** en el frontmatter de la nota.
-2. **Carpetas ignoradas** — ya están configuradas en `quartz.config.ts`: `private`, `privado`, `templates`, `plantillas`, `Excalidraw`, `.obsidian`, `.trash`.
+2. **Carpetas ignoradas** — ya están configuradas en `.quartz/quartz.config.ts` (en cualquier nivel de carpetas): `private`, `privado`, `templates`, `plantillas`, `Excalidraw`, `.obsidian`, `.trash`.
 3. **`.gitignore` del vault** — lo que ni siquiera querés que llegue a GitHub.
 
 Antes del primer push, revisá que no haya en el vault: parciales resueltos que no podés compartir, datos de compañeros, credenciales, notas de trabajo de IGECH mezcladas con las de la facu.
@@ -162,7 +162,9 @@ El resto de `.obsidian/` (config, snippets CSS, hotkeys) conviene **sí** commit
 isi-docs/
 ├── index.md                 ← home del sitio (obligatorio)
 ├── .gitignore
-├── .github/workflows/avisar-al-sitio.yml
+├── package.json             ← npm run serve / npm run build
+├── .quartz/                 ← config de Quartz (quartz.config.ts, quartz.layout.ts)
+├── .github/workflows/deploy.yml
 ├── assets/                  ← imágenes y PDFs
 ├── plantillas/              ← ignorada, no se publica
 ├── privado/                 ← ignorada, no se publica
@@ -188,4 +190,4 @@ Las carpetas se convierten en secciones navegables del explorer y en páginas de
 - [ ] No hay nombres de nota duplicados entre carpetas
 - [ ] Las notas que no querés publicar tienen `draft: true` o están en `privado/`
 - [ ] Los diagramas de Excalidraw están exportados a PNG/SVG
-- [ ] Probaste el build local con `npx quartz build --serve` antes de pushear
+- [ ] Probaste el build local con `npm run serve` antes de pushear

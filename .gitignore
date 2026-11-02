@@ -15,3 +15,6 @@ desktop.ini
 # Notas privadas (también están en los ignorePatterns de Quartz)
 private/
 privado/
+
+# Por si alguna vez se instala algo en la raíz
+node_modules/

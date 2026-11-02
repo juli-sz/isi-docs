@@ -1,0 +1,54 @@
+# Publica la vault en GitHub Pages con Quartz cada vez que pusheás a main.
+# Requisito (una sola vez): Settings → Pages → Source: "GitHub Actions".
+name: Publicar sitio con Quartz
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0 # historial completo: Quartz saca las fechas de git log
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Cache del motor de Quartz
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/quartz-isi-docs
+          key: quartz-${{ runner.os }}-${{ hashFiles('.quartz/QUARTZ_VERSION') }}
+
+      - name: Build
+        run: node .quartz/run.mjs build
+        env:
+          QUARTZ_OUTPUT: ${{ runner.temp }}/site
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ runner.temp }}/site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

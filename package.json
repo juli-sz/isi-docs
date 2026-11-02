@@ -1,0 +1,12 @@
+{
+  "name": "isi-docs",
+  "private": true,
+  "description": "Apuntes de ISI (UTN FRRe) publicados con Quartz",
+  "scripts": {
+    "serve": "node .quartz/run.mjs serve",
+    "build": "node .quartz/run.mjs build"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
