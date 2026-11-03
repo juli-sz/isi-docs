@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASI/Unidad 1 - Planificacion SI-TI/Wiki/99 Examen/Bibliografía U1.md",
+                "file": "ASI/Unidad 1 - Planificacion SI-TI/Wiki/01 Organizaciones (Chiavenato)/Niveles organizacionales (Chiavenato).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bibliografía U1"
+              "title": "Niveles organizacionales (Chiavenato)"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 625.5
+    "width": 324.5
   },
   "right": {
     "id": "43b1b547f8f088ac",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASI/Unidad 1 - Planificacion SI-TI/Wiki/99 Examen/Bibliografía U1.md",
+                "file": "ASI/Unidad 1 - Planificacion SI-TI/Wiki/01 Organizaciones (Chiavenato)/Niveles organizacionales (Chiavenato).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,43 +183,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "d102639d4ad2b9f8",
+  "active": "9dfa64ddea22e657",
   "lastOpenFiles": [
-    "package.json",
-    "ASI/Fuentes/AdmSI-CUESTIONARIOS APLICACIÓN DE RECURSOS.pdf",
-    "ASI/Fuentes/Preguntas teóricas [Finales] ordenadas por unidad.pdf",
-    "ASI/Fuentes/Todos Los Cuestionarios.pdf",
-    "ASI/Fuentes/Preguntas teóricas [Finales].pdf",
-    "ASI/Fuentes/Apunte Yoel.pdf",
-    "ASI/Fuentes/Apunte Supremo.pdf",
-    "ASI/Fuentes/AdmSI-CUESTIONARIOS DE ESTUDIO - SEGURIDAD Y AUDITORIA DE SI-TI.pdf",
+    "ASI/Fuentes/03_AdmRR-Unidad2-SW-HW-Secc2-EjemploMEM.pdf",
+    "ASI/Fuentes/07_AdmRR-Unidad2-SW-HW-Secc5.pdf",
+    "ASI/Fuentes/06_AdmRR-Unidad2-SW-HW-Secc4.pdf",
+    "ASI/Fuentes/05_AdmRR-Unidad2-SW-HW-Secc3-Anexos.pdf",
+    "ASI/Fuentes/04_AdmRR-Unidad2-SW-HW-Secc3.pdf",
+    "ASI/Fuentes/02_AdmRR-Unidad2-SW-HW-Secc2.pdf",
+    "ASI/Fuentes/01_AdmRR-Unidad2-SW-HW-Secc1.pdf",
+    "ASI/Fuentes/DALESSIO-HUBER-BARRAL_Tercerización en TI por expertos (Cap 1 - 4).pdf",
+    "ASI/Fuentes/ROBSON_Tomo3-Cap7-Valor de la Info e Inversion en IS.pdf",
+    "ASI/Fuentes/ROBSON_Tomo5-Cap13-Management Responsable de IS (Seguridad).pdf",
+    "ASI/Fuentes/PIATTINI-DEL PESO_Auditoria informática, un enfoque práctico.pdf",
+    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/00 Home — U1 Planificación estratégica SI-TI.md",
+    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/99 Examen/Bibliografía U1.md",
     "ASI/Unidad 1 - Planificacion SI-TI/Wiki/99 Examen/Súper Resumen U1 (documento único).md",
     "ASI/Unidad 1 - Planificacion SI-TI/Wiki/99 Examen/Índice alfabético de notas.md",
     "ASI/Unidad 1 - Planificacion SI-TI/Wiki/99 Examen/Comodines y cruces de examen.md",
     "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/index.md",
     "ASI/Unidad 6 - La Administración de Recursos de SI_TI - Seguridad y Auditoría de Sistemas de Información/index.md",
     "ASI/Unidad 1 - Planificacion SI-TI/ASI U1 - Planificación Estratégica SI-TI (Súper Resumen).md",
-    "ASI/Fuentes/Complemento a los apuntes.pdf",
     "ASI/Unidad 1 - Planificacion SI-TI/index.md",
     "ASI/Bienvenido.md",
     "ASI/Unidad 1 - Planificacion SI-TI/index.html.md",
-    "ASI/Presentación - Alineamiento estratégico.pdf",
     "ASI/index.html.md",
     "ASI/Unidad 6/index.html.md",
     "ASI/Unidad 3/Index.html.md",
     "ASI/Unidad 1 - Planificacion SI-TI/Wiki/02 SI en la empresa (Andreu)/El SI en la cadena de valor.md",
-    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/00 Home — U1 Planificación estratégica SI-TI.md",
     "ASI/Unidad 1 - Planificacion SI-TI/2.1 - ASI - Definición de Sistema de Información.md",
     "ASI/Unidad 1 - Planificacion SI-TI/1.5 - ASI - Ambientes y Niveles Organizacionales.md",
     "ASI/Unidad 1 - Planificacion SI-TI/1.4 - ASI - Racionalidad Organizacional y Eficiencia vs Eficacia.md",
     "ASI/Unidad 1 - Planificacion SI-TI/1.3 - ASI - Recursos Organizacionales.md",
     "ASI/Unidad 1 - Planificacion SI-TI/1.2 - ASI - Enfoque Sociotécnico de Tavistock.md",
     "ASI/Unidad 1 - Planificacion SI-TI/1.1 - ASI - Concepto de Organización y Sistemas Abiertos.md",
-    "privado/ASI U1 - Planificación Estratégica SI-TI (Súper Resumen).pdf",
     "ASI/Unidad 1 - Planificacion SI-TI/Wiki/04 Cartera de aplicaciones (Edwards)/Aplicaciones estratégicas.md",
     "index-ejemplo.md",
     "index.md",
-    "ASI/index.md",
-    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/99 Examen/Cuestionario U1 (18 preguntas).md"
+    "ASI/index.md"
   ]
 }
