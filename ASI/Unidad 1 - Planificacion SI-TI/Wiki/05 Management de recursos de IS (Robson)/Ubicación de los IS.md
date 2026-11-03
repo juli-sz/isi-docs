@@ -26,3 +26,4 @@ Las empresas suelen **combinar facetas** de las tres categorías; comprendiendo 
 ## 🔗 Relacionado
 - [[Centralizados vs no centralizados]] — la comparación detallada (P11)
 - [[Administración de recursos de IS]]
+- **Otras unidades:** [[SI delegados]] (U3) · [[RUO — Rol, Ubicación y Organización del área de SI-TI]] (U3)

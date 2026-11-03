@@ -47,3 +47,4 @@ Son **dos ejes independientes** que se cruzan. Un mismo sistema puede tener bene
 
 ## 🔗 Relacionado
 - [[Comodines y cruces de examen]] · [[Cuestionario U1 (18 preguntas)]]
+- **Otras unidades:** [[Diferencias que se confunden U3]] · [[Diferencias que se confunden U6]]

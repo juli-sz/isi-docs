@@ -61,3 +61,7 @@ flowchart LR
 - [[Comodines y cruces de examen]]
 - [[Súper Resumen U1 (documento único)]]
 - [[Bibliografía U1]]
+
+## 🧭 Otras unidades
+- [[00 Home — U3 Subsistema de aplicación|🏠 Wiki U3 — Subsistema de aplicación]] (retoma el RUO de Robson)
+- [[00 Home — U6 Seguridad y auditoría|🏠 Wiki U6 — Seguridad y auditoría]]

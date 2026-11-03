@@ -28,3 +28,4 @@ Referencia rápida de "quién dijo qué" para no confundirse en el examen.
 
 ## 🔗 Relacionado
 - [[Bibliografía U1]] · [[Glosario U1]]
+- **Otras unidades:** [[Autores y modelos clave U3]] · [[Autores y modelos clave U6]]

@@ -35,3 +35,4 @@ tags: [ASI-U1, examen]
 
 ## 🔗 Relacionado
 - [[Cuestionario U1 (18 preguntas)]] · [[Diferencias que se confunden]] · [[00 Home — U1 Planificación estratégica SI-TI|🏠 Home]]
+- **Otras unidades:** [[Comodines y cruces de examen U3]] · [[Comodines y cruces de examen U6]]

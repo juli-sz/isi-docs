@@ -43,3 +43,4 @@ flowchart TD
 - [[Organización (concepto y sistemas abiertos)]]
 - [[Sistema de Información (definición)]] — el SI cruza lo técnico y lo social en la empresa
 - [[Tecnologías de la Información (rol)]] — "la tecnología no es neutral"
+- **Otras unidades:** [[Modelo humanista de diseño de cargos]] (U3: el subsistema social en el diseño del cargo)

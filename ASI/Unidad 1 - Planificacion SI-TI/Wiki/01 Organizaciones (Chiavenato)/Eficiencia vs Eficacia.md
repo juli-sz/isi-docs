@@ -20,3 +20,4 @@ Toda organización debe considerar **ambas simultáneamente**. La eficiencia no 
 ## 🔗 Relacionado
 - [[Racionalidad de las organizaciones]] · [[Beneficios de los IS]]
 - [[Centralizados vs no centralizados]] — centralizar↔eficiencia, delegar↔efectividad
+- **Otras unidades:** [[Modelo clásico de diseño de cargos]] (U3: busca eficiencia máxima) · [[SI delegados]] (U3)

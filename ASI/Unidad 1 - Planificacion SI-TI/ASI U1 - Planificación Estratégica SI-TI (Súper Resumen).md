@@ -514,6 +514,9 @@ $$\text{Prioridad} \propto \frac{\text{Beneficios a obtener (ajustados por el ri
 
 > Preguntas: `[P8]` `[P9]` `[P10]` `[P11]` `[P12]`
 
+> [!tip] Se retoma en la U3
+> El RUO vuelve en la Unidad 3 (Subsistema de aplicación) → [[RUO — Rol, Ubicación y Organización del área de SI-TI]] · [[SI delegados]] · [[Enfoques estructurales — detalle U3]].
+
 > [!warning] ACLARACIÓN clave de la cátedra
 > En esta unidad, **"IS" hace referencia al ÁREA de sistemas** (el departamento), **no a las aplicaciones**.
 
@@ -637,6 +640,9 @@ Estructura **interna** de los IS, dondequiera que estén. Los enfoques **pueden 
 ## 9.2 Costos de los IS
 
 > Preguntas: `[P14]`
+
+> [!tip] Cruce con la U6
+> La categoría **Seguridad** de la lista de control (prevención de daños y recuperación de desastres) se desarrolla en la Unidad 6 → [[Administración del riesgo]] · [[Plan de contingencias]].
 
 - Componentes **tangibles e intangibles** → en la jerga: **visibles y ocultos**.
 - Hay que **predecir** los costos y reducirlos cuando corresponda, **sin sacrificar el nivel de beneficios netos**.

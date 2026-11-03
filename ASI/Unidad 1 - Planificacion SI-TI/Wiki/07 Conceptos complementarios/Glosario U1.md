@@ -45,3 +45,4 @@ Términos clave de la unidad ordenados alfabéticamente.
 
 ## 🔗 Relacionado
 - [[Autores y modelos clave]] · [[Cuestionario U1 (18 preguntas)]]
+- **Otras unidades:** [[Glosario U3]] · [[Glosario U6]]

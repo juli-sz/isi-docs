@@ -23,3 +23,4 @@ tags: [ASI-U1, robson, valor]
 
 ## 🔗 Relacionado
 - [[Costos de los IS]] · [[Beneficios de los IS]]
+- **Otras unidades:** [[Auditoría de sistemas de información]] (U6: no confundir las dos "auditorías") · [[Diferencias que se confunden U6]]

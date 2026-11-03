@@ -32,3 +32,4 @@ tags: [ASI-U1, robson, management-IS]
 
 ## 🔗 Relacionado
 - [[Administración de recursos de IS]] · [[Ubicación de los IS]] · [[Organización de los IS (enfoques estructurales)]]
+- **Otras unidades:** [[Rol de IS — relaciones con los usuarios y estructuras]] (U3)

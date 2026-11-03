@@ -21,3 +21,4 @@ Un Plan de TI/SI debe incluir:
 - [[Procedimiento de alineamiento (4 fases)]] — cómo se elabora
 - [[Grupos de trabajo del plan]] — quién lo elabora y aprueba
 - [[Prioridades de las aplicaciones]] — cómo se priorizan los proyectos
+- **Otras unidades:** [[Auditoría del desarrollo de sistemas]] (U6: el plan maestro es el primer punto de control según Lardent)

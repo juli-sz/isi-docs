@@ -14,3 +14,4 @@ tags: [ASI-U1, chiavenato, robson]
 ## 🔗 Relacionado
 - [[Beneficios de los IS]] · [[Organización (concepto y sistemas abiertos)]]
 - [[Organización de los IS (enfoques estructurales)]] — administración de tecnología/uso/información por nivel
+- **Otras unidades:** [[Niveles de administración del área de SI-TI]] (U3: mismo esquema estratégico / táctico / operativo dentro del área de SI-TI)

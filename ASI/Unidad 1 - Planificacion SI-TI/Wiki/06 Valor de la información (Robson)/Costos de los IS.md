@@ -36,3 +36,4 @@ Se abandona lo **familiar** (procesos conocidos y controlados) por lo **desconoc
 
 ## 🔗 Relacionado
 - [[Auditoría de costos de IS]] · [[Valor de la información e inversión en IS]] · [[Beneficios de los IS]]
+- **Otras unidades:** [[Planificación de la capacidad]] (U3: costo total de la propiedad) · [[Administración del riesgo]] y [[Recuperación ante el desastre]] (U6: la categoría "Seguridad" de la lista de control)

@@ -23,3 +23,4 @@ Por la división del trabajo, cada conjunto es administrado por una **especialid
 ## 🔗 Relacionado
 - [[Organización (concepto y sistemas abiertos)]] · [[Racionalidad de las organizaciones]]
 - [[Administración de recursos de IS]] — el área de sistemas como recurso a administrar
+- **Otras unidades:** [[Subsistema de aplicación de RRHH]] (U3: cómo se aplica el recurso humano)

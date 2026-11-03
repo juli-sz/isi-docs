@@ -26,3 +26,4 @@ Se refiere a la **estructura interna** de los IS, dondequiera que se encuentren.
 
 ## 🔗 Relacionado
 - [[Administración de recursos de IS]] · [[Niveles organizacionales (Chiavenato)]] · [[Beneficios de los IS]]
+- **Otras unidades:** [[Enfoques estructurales — detalle U3]] · [[Niveles de administración del área de SI-TI]] (U3) · [[Auditoría de la función informática]] · [[Separación de funciones]] (U6)

@@ -25,3 +25,4 @@ flowchart TD
 
 ## 🔗 Relacionado
 - [[Recursos organizacionales]] · [[Valor de la información e inversión en IS]]
+- **Otras unidades:** [[RUO — Rol, Ubicación y Organización del área de SI-TI]] (U3: hub del RUO con lo que agrega el apunte de la unidad)

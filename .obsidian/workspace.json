@@ -11,14 +11,10 @@
             "id": "d102639d4ad2b9f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASI/Unidad 1 - Planificacion SI-TI/Wiki/01 Organizaciones (Chiavenato)/Niveles organizacionales (Chiavenato).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Niveles organizacionales (Chiavenato)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -80,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 639.5
   },
   "right": {
     "id": "43b1b547f8f088ac",
@@ -156,7 +152,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASI/Unidad 1 - Planificacion SI-TI/Wiki/01 Organizaciones (Chiavenato)/Niveles organizacionales (Chiavenato).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -164,9 +159,19 @@
               "icon": "lucide-list",
               "title": "Esquema"
             }
+          },
+          {
+            "id": "7990b09319efc9d8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,46 +185,47 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9dfa64ddea22e657",
+  "active": "d102639d4ad2b9f8",
   "lastOpenFiles": [
-    "ASI/Fuentes/03_AdmRR-Unidad2-SW-HW-Secc2-EjemploMEM.pdf",
-    "ASI/Fuentes/07_AdmRR-Unidad2-SW-HW-Secc5.pdf",
-    "ASI/Fuentes/06_AdmRR-Unidad2-SW-HW-Secc4.pdf",
-    "ASI/Fuentes/05_AdmRR-Unidad2-SW-HW-Secc3-Anexos.pdf",
-    "ASI/Fuentes/04_AdmRR-Unidad2-SW-HW-Secc3.pdf",
-    "ASI/Fuentes/02_AdmRR-Unidad2-SW-HW-Secc2.pdf",
-    "ASI/Fuentes/01_AdmRR-Unidad2-SW-HW-Secc1.pdf",
-    "ASI/Fuentes/DALESSIO-HUBER-BARRAL_Tercerización en TI por expertos (Cap 1 - 4).pdf",
-    "ASI/Fuentes/ROBSON_Tomo3-Cap7-Valor de la Info e Inversion en IS.pdf",
-    "ASI/Fuentes/ROBSON_Tomo5-Cap13-Management Responsable de IS (Seguridad).pdf",
-    "ASI/Fuentes/PIATTINI-DEL PESO_Auditoria informática, un enfoque práctico.pdf",
-    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/00 Home — U1 Planificación estratégica SI-TI.md",
-    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/99 Examen/Bibliografía U1.md",
-    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/99 Examen/Súper Resumen U1 (documento único).md",
-    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/99 Examen/Índice alfabético de notas.md",
-    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/99 Examen/Comodines y cruces de examen.md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/index.md",
-    "ASI/Unidad 6 - La Administración de Recursos de SI_TI - Seguridad y Auditoría de Sistemas de Información/index.md",
-    "ASI/Unidad 1 - Planificacion SI-TI/ASI U1 - Planificación Estratégica SI-TI (Súper Resumen).md",
-    "ASI/Unidad 1 - Planificacion SI-TI/index.md",
-    "ASI/Bienvenido.md",
-    "ASI/Unidad 1 - Planificacion SI-TI/index.html.md",
-    "ASI/index.html.md",
-    "ASI/Unidad 6/index.html.md",
-    "ASI/Unidad 3/Index.html.md",
-    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/02 SI en la empresa (Andreu)/El SI en la cadena de valor.md",
-    "ASI/Unidad 1 - Planificacion SI-TI/2.1 - ASI - Definición de Sistema de Información.md",
-    "ASI/Unidad 1 - Planificacion SI-TI/1.5 - ASI - Ambientes y Niveles Organizacionales.md",
-    "ASI/Unidad 1 - Planificacion SI-TI/1.4 - ASI - Racionalidad Organizacional y Eficiencia vs Eficacia.md",
-    "ASI/Unidad 1 - Planificacion SI-TI/1.3 - ASI - Recursos Organizacionales.md",
-    "ASI/Unidad 1 - Planificacion SI-TI/1.2 - ASI - Enfoque Sociotécnico de Tavistock.md",
-    "ASI/Unidad 1 - Planificacion SI-TI/1.1 - ASI - Concepto de Organización y Sistemas Abiertos.md",
-    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/04 Cartera de aplicaciones (Edwards)/Aplicaciones estratégicas.md",
-    "index-ejemplo.md",
-    "index.md",
-    "ASI/index.md"
+    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/01 Organizaciones (Chiavenato)/Niveles organizacionales (Chiavenato).md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/06 Relaciones entre subsistemas/Aplicación y provisión de RRHH.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/06 Relaciones entre subsistemas/Aplicación y provisión de SI-TI.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/06 Relaciones entre subsistemas/Aplicación de RRHH vs aplicación de SI-TI.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/06 Relaciones entre subsistemas",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Ley de Amdahl.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Magnitudes y variables de medida.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Monitores.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Herramienta top.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Benchmarking.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Subsistema de aplicación de SI-TI.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Rendimiento y prestaciones.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Evaluación de prestaciones.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Mejora del comportamiento de un sistema.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Sistemas batch, transaccional e interactivo.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad/Unidades de predicción natural (UPN).md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad/Técnicas cuantitativas de predicción de la carga.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad/Planificación de la capacidad.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad/Carga del sistema.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad/Modelo de carga y representatividad.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad/Patrones de la carga y métodos de predicción.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad/Cargas de test.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad/Caracterización de la carga.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/05 Gestión operativa y marco normativo/Modelo de administración de recursos (políticas y normas).md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/05 Gestión operativa y marco normativo/Explotación de sistemas.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/05 Gestión operativa y marco normativo",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/07 Conceptos complementarios/Autores y modelos clave U3.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/07 Conceptos complementarios/Glosario U3.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/07 Conceptos complementarios",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/99 Examen",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/01 Aplicación de RRHH (Chiavenato)",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/02 Management de recursos de SI (Robson)",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki",
+    "ASI/Unidad 6 - La Administración de Recursos de SI_TI - Seguridad y Auditoría de Sistemas de Información/Wiki/03 Continuidad y recuperación ante desastres"
   ]
 }

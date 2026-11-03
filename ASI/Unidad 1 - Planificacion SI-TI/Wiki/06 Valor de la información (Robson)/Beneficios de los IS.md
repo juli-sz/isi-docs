@@ -45,3 +45,4 @@ Tres eras distintas → beneficios distintos → **se necesitan enfoques distint
 ## 🔗 Relacionado
 - [[Valor de la información e inversión en IS]] · [[Error común al estimar el valor (caso cosméticos)]]
 - [[Niveles organizacionales (Chiavenato)]] · [[Técnicas de justificación financiera]] · [[Eficiencia vs Eficacia]]
+- **Otras unidades:** [[Manejo del riesgo (4 estrategias)]] (U6: las pérdidas evitadas por la seguridad también son beneficio)

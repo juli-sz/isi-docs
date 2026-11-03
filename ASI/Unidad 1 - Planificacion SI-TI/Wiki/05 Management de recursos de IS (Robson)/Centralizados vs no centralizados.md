@@ -19,3 +19,4 @@ tags: [ASI-U1, robson, management-IS]
 
 ## 🔗 Relacionado
 - [[Ubicación de los IS]] · [[Eficiencia vs Eficacia]]
+- **Otras unidades:** [[SI delegados]] (U3) · [[Manejo del riesgo (4 estrategias)]] y [[Controles y contramedidas]] (U6: la ubicación condiciona la seguridad)
