@@ -136,12 +136,12 @@ Dicha falla puede referirse a la pérdida de uno de estos aspectos **o de todos*
 
 "Cualquiera sea la metodología que se siga, el management de la seguridad de los IS se reduce a **cuatro etapas**" (Robson):
 
-| # | Etapa | Síntesis |
-|---|---|---|
-| 1 | **Identificación del riesgo** | Identificar **todos** los riesgos a los que la organización está potencialmente expuesta |
-| 2 | **Análisis del riesgo** | **Cuantificar la probabilidad y frecuencia** de cada riesgo y la **gravedad** de sus consecuencias |
-| 3 | **Manejo del riesgo** | **Seleccionar controles y contramedidas** para alcanzar la posición de seguridad óptima |
-| 4 | **Recuperación del desastre** | Como ningún proceso es absoluto, **en paralelo** a las otras tres: **plan de contingencias** controlado, revisado y probado en forma continua |
+| #   | Etapa                         | Síntesis                                                                                                                                      |
+| --- | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Identificación del riesgo** | Identificar **todos** los riesgos a los que la organización está potencialmente expuesta                                                      |
+| 2   | **Análisis del riesgo**       | **Cuantificar la probabilidad y frecuencia** de cada riesgo y la **gravedad** de sus consecuencias                                            |
+| 3   | **Manejo del riesgo**         | **Seleccionar controles y contramedidas** para alcanzar la posición de seguridad óptima                                                       |
+| 4   | **Recuperación del desastre** | Como ningún proceso es absoluto, **en paralelo** a las otras tres: **plan de contingencias** controlado, revisado y probado en forma continua |
 
 ```mermaid
 flowchart LR

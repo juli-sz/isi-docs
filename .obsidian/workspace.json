@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2dad580540d6a08e",
+        "id": "e0ecc1a2c8ae069e",
         "type": "tabs",
         "children": [
           {
-            "id": "d102639d4ad2b9f8",
+            "id": "b4d95498a4eb8be8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "ASI/Fuentes/Catedra/bibliografia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bibliografia"
             }
           }
         ]
@@ -76,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 639.5
+    "width": 518.5
   },
   "right": {
     "id": "43b1b547f8f088ac",
@@ -92,7 +96,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "ASI/Fuentes/Catedra/bibliografia.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -189,43 +194,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d102639d4ad2b9f8",
+  "active": "b4d95498a4eb8be8",
   "lastOpenFiles": [
+    "ASI/Fuentes/Catedra/517589782-Andreu-Estrategia-y-Sistemas-de-Informacion.pdf",
+    "ASI/Fuentes/Catedra/CHIAVENATO_Administracion_de_Recursos_Humanos_5taEd.pdf",
+    "ASI/Fuentes/Catedra/EDWARDS_Fundamentos de SI - Cap4-5-6.pdf",
+    "ASI/Fuentes/Catedra/LARDENT_Sistemas de información para la gestión empresaria (Apaisado) (1).pdf",
+    "ASI/Fuentes/Catedra/MOLERO_Evaluacion y Modelado del Rendimiento de SI.pdf",
+    "Pasted image 20261116203514.png",
+    "ASI/Fuentes/Catedra/bibliografia.md",
+    "ASI/Fuentes/alumnos/Unidad III - Subsistema de Aplicación.pdf",
+    "ASI/Fuentes/Catedra/PIATTINI-DEL PESO_Auditoria informática, un enfoque práctico.pdf",
+    "ASI/Fuentes/Catedra/planificación.pdf",
+    "Sin título.md",
+    "ASI/Fuentes/alumnos/Todos Los Cuestionarios.pdf",
+    "ASI/Fuentes/alumnos/Presentación - Alineamiento estratégico.pdf",
+    "ASI/Fuentes/Catedra/AdmSI-CUESTIONARIOS APLICACIÓN DE RECURSOS.pdf",
+    "ASI/Unidad 1 - Planificacion SI-TI/Wiki/01 Organizaciones (Chiavenato)/Ambiente organizacional.md",
+    "ASI/Unidad 6 - La Administración de Recursos de SI_TI - Seguridad y Auditoría de Sistemas de Información/ASI U6 - Seguridad y Auditoría de SI-TI (Súper Resumen).md",
+    "ASI/Unidad 6 - La Administración de Recursos de SI_TI - Seguridad y Auditoría de Sistemas de Información/Wiki/02 Seguridad y administración del riesgo/Amenaza, vulnerabilidad y riesgo (definiciones).md",
+    "ASI/Unidad 6 - La Administración de Recursos de SI_TI - Seguridad y Auditoría de Sistemas de Información/Wiki/02 Seguridad y administración del riesgo/Administración del riesgo.md",
+    "ASI/Unidad 6 - La Administración de Recursos de SI_TI - Seguridad y Auditoría de Sistemas de Información/Wiki/04 Políticas de seguridad y delitos informáticos/Políticas de seguridad.md",
+    "ASI/Unidad 6 - La Administración de Recursos de SI_TI - Seguridad y Auditoría de Sistemas de Información/Wiki/04 Políticas de seguridad y delitos informáticos/Artífices y modalidades del delito informático.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/ASI U3 - Subsistema de Aplicación (Súper Resumen).md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/01 Aplicación de RRHH (Chiavenato)/Descripción y análisis de cargos.md",
+    "ASI/Unidad 6 - La Administración de Recursos de SI_TI - Seguridad y Auditoría de Sistemas de Información/index.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/index.md",
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/00 Home — U3 Subsistema de aplicación.md",
+    "ASI/Unidad 6 - La Administración de Recursos de SI_TI - Seguridad y Auditoría de Sistemas de Información/Wiki/00 Home — U6 Seguridad y auditoría.md",
     "ASI/Unidad 1 - Planificacion SI-TI/Wiki/01 Organizaciones (Chiavenato)/Niveles organizacionales (Chiavenato).md",
     "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/06 Relaciones entre subsistemas/Aplicación y provisión de RRHH.md",
     "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/06 Relaciones entre subsistemas/Aplicación y provisión de SI-TI.md",
     "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/06 Relaciones entre subsistemas/Aplicación de RRHH vs aplicación de SI-TI.md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/06 Relaciones entre subsistemas",
     "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Ley de Amdahl.md",
     "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Magnitudes y variables de medida.md",
     "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Monitores.md",
     "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Herramienta top.md",
     "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Benchmarking.md",
     "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Subsistema de aplicación de SI-TI.md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Rendimiento y prestaciones.md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Evaluación de prestaciones.md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Mejora del comportamiento de un sistema.md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Sistemas batch, transaccional e interactivo.md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad/Unidades de predicción natural (UPN).md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad/Técnicas cuantitativas de predicción de la carga.md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad/Planificación de la capacidad.md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad/Carga del sistema.md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad/Modelo de carga y representatividad.md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad/Patrones de la carga y métodos de predicción.md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad/Cargas de test.md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad/Caracterización de la carga.md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/04 Carga y capacidad",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/05 Gestión operativa y marco normativo/Modelo de administración de recursos (políticas y normas).md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/05 Gestión operativa y marco normativo/Explotación de sistemas.md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/05 Gestión operativa y marco normativo",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/07 Conceptos complementarios/Autores y modelos clave U3.md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/07 Conceptos complementarios/Glosario U3.md",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/07 Conceptos complementarios",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/99 Examen",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/01 Aplicación de RRHH (Chiavenato)",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/02 Management de recursos de SI (Robson)",
-    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki",
-    "ASI/Unidad 6 - La Administración de Recursos de SI_TI - Seguridad y Auditoría de Sistemas de Información/Wiki/03 Continuidad y recuperación ante desastres"
+    "ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/Wiki/03 Evaluación de rendimiento y prestaciones (Puigjaner - Molero)/Rendimiento y prestaciones.md"
   ]
 }
