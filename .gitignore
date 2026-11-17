@@ -1,5 +1,7 @@
 # Estado local de Obsidian (cambia todo el tiempo y ensucia el historial)
 **/.obsidian/workspace.json
+**/.obsidian/graph.json
+**/.obsidian/core-plugins.json
 **/.obsidian/workspace-mobile.json
 **/.obsidian/cache
 **/.obsidian/plugins/*/data.json
