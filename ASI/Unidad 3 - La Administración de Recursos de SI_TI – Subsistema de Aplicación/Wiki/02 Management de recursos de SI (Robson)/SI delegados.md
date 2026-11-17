@@ -41,7 +41,7 @@ aliases: [IS delegados, Ubicación delegada]
 
 ## Entorno adecuado
 - Requerimiento de **velocidad y flexibilidad**; **servicio único** de una parte de la empresa; objetivos de **efectividad**.
-- En general, los delegados convienen cuando los **costos de los recursos son extremadamente bajos** pero su **uso es alto y variado** (al revés que la centralización: recursos **costosos** y uso **limitado**).
+- En general, los delegados convienen cuando los **costos de los recursos son relativamente bajos** (Robson T4, p. 44; el apunte de cátedra dice "extremadamente") pero su **uso es alto y variado** (al revés que la centralización: recursos **costosos** y uso **limitado**).
 
 ## 🔗 Relacionado
 - [[Ubicación de los IS]] · [[Centralizados vs no centralizados]] · [[RUO — Rol, Ubicación y Organización del área de SI-TI]] · [[Eficiencia vs Eficacia]] · [[Planificación de la capacidad]] *(más difícil cuanto más centralizado)*

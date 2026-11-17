@@ -14,7 +14,7 @@ Apuntes de **Administración de Sistemas de Información (ASI)**.
 
 | Unidad | Tema | Material |
 | :---: | :--- | :--- |
-| 1 | [[ASI/Unidad 1 - Planificacion SI-TI/index\|Planificación Estratégica de los SI/TI]] | [[ASI U1 - Planificación Estratégica SI-TI (Súper Resumen)\|Súper Resumen]] · [[00 Home — U1 Planificación estratégica SI-TI\|Wiki]] |
+| 1 | [[ASI/Unidad 1 - Planificacion Estrategica SI-TI/index\|Planificación Estratégica de los SI/TI]] | [[ASI U1 - Planificación Estratégica SI-TI (Súper Resumen)\|Súper Resumen]] · [[00 Home — U1 Planificación estratégica SI-TI\|Wiki]] |
 | 3 | [[ASI/Unidad 3 - La Administración de Recursos de SI_TI – Subsistema de Aplicación/index\|Subsistema de Aplicación]] | [[ASI U3 - Subsistema de Aplicación (Súper Resumen)\|Súper Resumen]] · [[00 Home — U3 Subsistema de aplicación\|Wiki]] · [[Unidad III - Subsistema de Aplicación.pdf\|Apunte sistematizado (PDF)]] |
 | 6 | [[ASI/Unidad 6 - La Administración de Recursos de SI_TI - Seguridad y Auditoría de Sistemas de Información/index\|Seguridad y Auditoría de SI]] | [[ASI U6 - Seguridad y Auditoría de SI-TI (Súper Resumen)\|Súper Resumen]] · [[00 Home — U6 Seguridad y auditoría\|Wiki]] · [[Unidad VI - Seguridad y Auditoría.pdf\|Apunte sistematizado (PDF)]] |
 
@@ -33,7 +33,7 @@ Apuntes de **Administración de Sistemas de Información (ASI)**.
 | D'Alessio, Huber y Barral — Tercerización en TI (caps. 1–4) | [[DALESSIO-HUBER-BARRAL_Tercerización en TI por expertos (Cap 1 - 4).pdf\|PDF]] |
 | Cátedra — Provisión de SW y HW, secciones 1 a 5 | [[01_AdmRR-Unidad2-SW-HW-Secc1.pdf\|1]] · [[02_AdmRR-Unidad2-SW-HW-Secc2.pdf\|2]] · [[03_AdmRR-Unidad2-SW-HW-Secc2-EjemploMEM.pdf\|2 (ej. MEM)]] · [[04_AdmRR-Unidad2-SW-HW-Secc3.pdf\|3]] · [[05_AdmRR-Unidad2-SW-HW-Secc3-Anexos.pdf\|3 (anexos)]] · [[06_AdmRR-Unidad2-SW-HW-Secc4.pdf\|4]] · [[07_AdmRR-Unidad2-SW-HW-Secc5.pdf\|5]] |
 | Cátedra — Cuestionarios de estudio U3 y U6 | [[AdmSI-CUESTIONARIOS APLICACIÓN DE RECURSOS.pdf\|U3]] · [[AdmSI-CUESTIONARIOS DE ESTUDIO - SEGURIDAD Y AUDITORIA DE SI-TI.pdf\|U6]] |
-| Cátedra — Presentación: alineamiento estratégico (U1) | [[Presentación - Alineamiento estratégico.pdf\|PDF]] |
+| Resumen de alumnos — Presentación: alineamiento estratégico (U1, sobre Andreu cap. 5) | [[Presentación - Alineamiento estratégico.pdf\|PDF]] |
 | Apuntes sistematizados de alumnos (U3 y U6) | [[Unidad III - Subsistema de Aplicación.pdf\|U3]] · [[Unidad VI - Seguridad y Auditoría.pdf\|U6]] |
 | Resúmenes de alumnos (para contrastar) | [[Apunte Supremo.pdf\|Apunte Supremo]] · [[Apunte Yoel.pdf\|Apunte Yoel]] · [[Todos Los Cuestionarios.pdf\|Todos los cuestionarios]] |
 | Complemento a los apuntes (armado por compañeros con IA) | [[Complemento a los apuntes.pdf\|PDF]] |

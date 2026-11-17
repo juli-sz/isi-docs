@@ -14,7 +14,7 @@ Los enfoques **evolucionaron en el tiempo** y **pueden coexistir**; la variedad 
 - En el procesamiento de datos tradicional la determinaba una **función financiera**; casi nadie del senior management era responsable de la informática.
 - **Máxima virtud: admite un amplio grado de especialización.** Pero exige **estandarización**, que genera **burocracia** y lentitud.
 - Sirve para actividades de **complejidad técnica y gran volumen de datos**; las de **alta velocidad de crecimiento y corta vida útil** se tratan mejor con enfoques externos.
-- **Desventajas:** **retraso** (años) · **sistemas proscriptos** (más "elegancia" que usabilidad) · **inflexibles** (especificaciones formales para grupos aislados del usuario) · **mantenimiento costoso**.
+- **Desventajas:** **retraso** (años) · **sistemas proscriptos** (más "elegancia" que usabilidad) · **inflexibles** (especificaciones formales para grupos aislados del usuario) · **mantenimiento costoso** · gran demanda de personal de **preparación de datos** (la 5.ª desventaja que da Robson, T4 p. 55; el apunte lista solo 4). Ver [[Organización de los IS (enfoques estructurales)]].
 
 ## 2. Estructura de bases de datos
 - **Orientación:** **integración y consistencia** de la información; centraliza el control de los datos como **recurso común**.
